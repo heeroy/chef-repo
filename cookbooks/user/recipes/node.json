@@ -1,0 +1,7 @@
+{ 
+    "run_list": ["recipe[user]"],
+        "user":{
+            "name": "eternia",
+            "password": "2BZZGp/akYNgA"
+        }
+}
